@@ -105,7 +105,7 @@ Balanced class-wise performance.
 ![Confusion Matrix](images/confusion_matrix.png)
 ## 📈 Training & Validation Curves
 
-![Training Curves](images/training_curves.png)
+![Training Curves](images/training_curve.png)
 
 
 🌐 Web Application
