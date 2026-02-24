@@ -122,7 +122,7 @@ Upload WAV audio file
 Record live voice from microphone
 ## 🌐 Web Application Interface
 
-![Web App Screenshot](images/website_demo_recoard audio.png)
+![Web App Screenshot](images/website_demo_recoardaudio.png)
 
 Emoji-based emotion display
 
