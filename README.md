@@ -100,6 +100,13 @@ Better recognition of neutral and sad emotions.
 Confusion matrix shows strong diagonal dominance.
 
 Balanced class-wise performance.
+## 📊 Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+## 📈 Training & Validation Curves
+
+![Training Curves](images/training_curves.png)
+
 
 🌐 Web Application
 
@@ -108,8 +115,14 @@ A Streamlit web interface was developed for real-time emotion prediction.
 Features:
 
 Upload WAV audio file
+## 🌐 Web Application Interface
+
+![Web App Screenshot](images/website_demo.png)
 
 Record live voice from microphone
+## 🌐 Web Application Interface
+
+![Web App Screenshot](images/website_demo_recoard audio.png)
 
 Emoji-based emotion display
 
